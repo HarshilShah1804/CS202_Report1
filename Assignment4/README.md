@@ -7,8 +7,8 @@ The dataset files made in this project are too large to be hosted on GitHub (ove
 | File | Description | Google Drive Link |
 |------|-------------|-----------------|
 | `DeepSpeed_df.csv` | Dataset for DeepSpeed | [Download Here](https://drive.google.com/file/d/1nEAeJNsm0wJ1aF_89HEdObfGxTgUyYI9/view?usp=sharing) |
-| `create-react-app_df.csv` | Dataset for Create-React-App [Download Here](https://drive.google.com/file/d/1hUo6gdq2mctdFuIr5a8TR5w8zCE7UP2M/view?usp=sharing) |
-| `gemini-cli.csv` | Dataset for Gemini-CLI [Download Here](https://drive.google.com/file/d/1so91zF7hwWwu41JhlLb61ZuqV4YvgHFQ/view?usp=drive_link) |
+| `create-react-app_df.csv` | Dataset for Create-React-App | [Download Here](https://drive.google.com/file/d/1hUo6gdq2mctdFuIr5a8TR5w8zCE7UP2M/view?usp=sharing) |
+| `gemini-cli.csv` | Dataset for Gemini-CLI | [Download Here](https://drive.google.com/file/d/1so91zF7hwWwu41JhlLb61ZuqV4YvgHFQ/view?usp=drive_link) |
 
 ### Instructions
 
